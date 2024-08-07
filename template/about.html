@@ -1,0 +1,109 @@
+{% load static %}
+<html>
+<head>
+<style>
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background-color:  black;
+}
+
+#aboutUs {
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+#aboutUs img {
+    width: 600px;
+    margin: 40px;
+    border-radius: 10px;
+}
+
+.content {
+    margin: 20px 0;
+}
+
+.content h2 {
+    font-size: 50px;
+    color:  green;
+}
+
+.content h4 {
+    font-size: 20px;
+    color: #fff;
+    margin: 10px 0;
+}
+
+.description {
+    color: #fff;
+    margin: 20px 0;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 100;
+}
+
+.btn {
+    font-weight: bold;
+    border: 2px solid  green;
+    cursor: pointer;
+    padding: 10px 20px;
+    border-radius: 20px;
+    transition: all 0.4s;
+    background-color:  green;
+
+    
+}
+
+.btn:hover {
+    border: 2px solid  #2cd4e4;
+    background: transparent;
+    color:  #2cd4e4;
+}
+
+@media screen and (max-width: 790px) {
+    #aboutUs img {
+        width: 80%;
+    }
+
+    #aboutUs {
+        grid-template-columns: 1fr;
+        place-items: center;
+    }
+}
+
+</style>
+</head>
+<body>
+    <section id="aboutUs">
+        
+        <img src="{% static 'images/about1.jpg' %}" height="500px" width="5000px" alt="computer user">
+        <div class="content">
+            <h2>About Us</h2>
+
+            
+            <h4> Developer & Designer </h4>
+            <p class="description">
+                Hello Friends , This is Simple job portal Project Developed 
+                By Soumyadip using HTML , CSS , Javascript , Python and Sqlite.<br><br>
+                Objective:<br><br>
+                The main objective of the Job Portal System is to manage the details of Interview,Employer, Call Letter, Employer Registration, Search Job. It manages all the information about Interview, Post Job, Search Job, Interview. The project is totally built at administrative end and thus only the administrator is guaranteed the access.
+            </p>
+
+
+            <!-- <button class="btn">Contact Me</button> -->
+
+
+        </div>
+    </section>
+
+</body>
+</html>
+
+
+  
