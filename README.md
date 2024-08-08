@@ -6,10 +6,10 @@ Django Job Portal.
 
 ```
 open terminal and type
-https://github.com/Sany07/Job-Portal.git
+https://github.com/soumyyyadip/django_project_job_portal.git
 
 or simply download using the url below
-https://github.com/Sany07/Job-Portal.git
+https://github.com/soumyyyadip/django_project_job_portal.git
 ```
 
 ## Install requirements
@@ -40,17 +40,17 @@ python manage.py collectstatic
 python manage.py runserver
 ```
 
-![Settings Window](https://raw.github.com/Sany07/Django-Job-Portal/master/screenshots/screencapture-127-0-0-1-8000-2020-05-08-17_03_46.png)
+![Settings Window](https://github.com/soumyyyadip/django_project_job_portal/blob/main/screenshots/screencapture-127-0-0-1-8000-2020-05-08-17_03_46.png)
 
-![Settings Window](https://raw.github.com/Sany07/Django-Job-Portal/master/screenshots/screencapture-127-0-0-1-8000-jobs-2020-05-08-17_40_01.png)
+![Settings Window](https://github.com/soumyyyadip/django_project_job_portal/blob/main/screenshots/screencapture-127-0-0-1-8000-dashboard-2020-05-08-17_01_07.png)
 
-![Settings Window](https://raw.github.com/Sany07/Django-Job-Portal/master/screenshots/screencapture-127-0-0-1-8000-job-79-2020-05-08-16_59_55.png)
+![Settings Window](https://github.com/soumyyyadip/django_project_job_portal/blob/main/screenshots/screencapture-127-0-0-1-8000-dashboard-employer-job-54-applicants-2020-05-08-17_01_34.png)
 
-![Settings Window](https://raw.github.com/Sany07/Django-Job-Portal/master/screenshots/screencapture-127-0-0-1-8000-job-create-2020-05-08-17_00_46.png)
+![Settings Window](https://github.com/soumyyyadip/django_project_job_portal/blob/main/screenshots/screencapture-127-0-0-1-8000-employee-register-2020-05-08-17_00_17.png)
 
-![Settings Window](https://raw.github.com/Sany07/Django-Job-Portal/master/screenshots/screencapture-127-0-0-1-8000-dashboard-2020-05-08-17_01_07.png)
+![Settings Window](https://github.com/soumyyyadip/django_project_job_portal/blob/main/screenshots/screencapture-127-0-0-1-8000-job-79-2020-05-08-16_59_55.png)
 
-![Settings Window](https://raw.github.com/Sany07/Django-Job-Portal/master/screenshots/screencapture-127-0-0-1-8000-dashboard-employer-job-54-applicants-2020-05-08-17_01_34.png)
+![Settings Window](https://github.com/soumyyyadip/django_project_job_portal/blob/main/screenshots/screencapture-127-0-0-1-8000-job-create-2020-05-08-17_00_46.png)
 
 <div align="center">
     <h3>========Thank You=========</h3>
